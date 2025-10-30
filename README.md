@@ -7,4 +7,4 @@
 </p>
 
 <p>At the same time, the program also generated an Excel file. Below is a screenshot from this file.</p>
-<img src="results/results_from_excel_file.png" alt="Mean temperature" width="600"/>
+<img src="results/results_from_excel_file.png" alt="Excel capture" width="600"/>
